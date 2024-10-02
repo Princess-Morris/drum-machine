@@ -1,0 +1,7 @@
+.drum-wrapper{
+    max-width: 800px;
+    border: 4px solid #FFA500;
+    padding: 30px;
+    margin: 120px auto;
+    height: 300px;
+}

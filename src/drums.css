@@ -1,0 +1,8 @@
+.drums{
+    max-width: 50%;
+    background-color: #B3B3B3;
+    padding: 20px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
